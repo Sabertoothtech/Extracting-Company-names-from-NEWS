@@ -1,4 +1,7 @@
 # Extracting the company names from the raw news files
+Part of the second step in predicting the stock prices based on news is;
+### Associating company name to news article.
+
 We have scraped the news from various news sources. But there are all kinds of news available like political, education, sports, business etc.
 
 We are interested only in the news which are related to the companies listed in the National Stock Exchange (NSE). To do this, we have a list of companies which are listed in the NSE.
