@@ -8,4 +8,4 @@ We are interested only in the news which are related to the companies listed in 
 We check every news content with the NSE list and if the match is found, the news article is associated with that company name.
 This helps in getting which news was related to which company.
 
-The input files to the iPythonNotebook is [_companyNamesList.csv_](https://github.com/Sabertoothtech/Extracting-Company-names-from-NEWS/blob/master/companyNamesList.csv) and _newsFile.csv_ and it generates a news file _newsWithCompanyName.csv_ containing the names of the company along with the news.
+The input files to the iPythonNotebook is [_companyNamesList.csv_](https://github.com/Sabertoothtech/Extracting-Company-names-from-NEWS/blob/master/companyNamesList.csv) and [_newsFile.csv_](https://github.com/Sabertoothtech/Extracting-Company-names-from-NEWS/blob/master/newsFile.csv) and it generates a news file _newsWithCompanyName.csv_ containing the names of the company along with the news.
